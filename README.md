@@ -46,14 +46,12 @@ Tidak perlu instalasi lokal. Anda cukup membuka notebook pada Google Colab.
 
 ```bash
 pip install numpy pandas scikit-learn matplotlib tensorflow
+'''
 
 📈 Output
 Visualisasi meliputi:
-
 Perbandingan data latih dan data uji
-
 Plot hasil prediksi model RNN
-
 Evaluasi loss model
 
 👥 Kontributor
